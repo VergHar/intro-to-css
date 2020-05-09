@@ -1,0 +1,15 @@
+/* Selector {
+    property-name:property-value;
+}*/
+/*Class selector
+.class-name{
+    prperty-name:property-value;
+}*/
+
+.redtext{color: darkblue;
+}
+child selectors
+/*parent-selector-child-selector {}*/
+div span{
+    color: darkgoldenrod;
+}
